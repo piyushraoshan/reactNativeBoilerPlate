@@ -2,9 +2,8 @@
 React Native Boilerplate 
 ===========================================
 
-[![React Native](https://img.shields.io/badge/React%20Native-v0.62.0-green.svg)](https://facebook.github.io/react-native/)
-[![React Navigation V5](https://img.shields.io/badge/React%20Navigation-v5.1-blue.svg)](https://reactnavigation.org/)
-
+React native 0.62.0v
+React Navigation 5.1v
 
 React Native Boilerplate is a starting point for React Native application. This project is configured with redux, redux saga 
 and redux persist. Uses latest version of react-navigation (v5)
