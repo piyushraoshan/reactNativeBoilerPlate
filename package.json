@@ -9,6 +9,10 @@
     "test": "jest",
     "lint": "eslint ."
   },
+  "engineStrict": true,
+  "engines": {
+    "node": ">=8.10.0"
+  },
   "dependencies": {
     "@react-native-community/async-storage": "^1.8.1",
     "@react-native-community/masked-view": "^0.1.7",
